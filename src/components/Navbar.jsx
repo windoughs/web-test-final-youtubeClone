@@ -7,7 +7,7 @@ import { IoMdMic } from "react-icons/io";
 import { RiVideoAddLine } from "react-icons/ri";
 import { AiOutlineBell } from "react-icons/ai";
 
-import logo from "../../public/logo.png";
+import logo from "../../public/my-logo.png";
 import profile from "../../public/profile.png";
 import { useNavigate } from "react-router-dom";
 function Navbar() {
